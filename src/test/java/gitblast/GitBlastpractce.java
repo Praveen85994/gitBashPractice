@@ -7,6 +7,8 @@ public class GitBlastpractce {
 
 		//do some changes in github and click on save pull...
 		//git pull origin branch name
+		
+		//do modification in eclipse
 	}
 
 }
